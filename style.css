@@ -4,6 +4,7 @@
     font-size: 24px;
     font-weight: bold;
     text-align: center;
+    font-style: italic;
     border-bottom: 5px solid #fd8a24;
 }
 
@@ -26,5 +27,14 @@
     color: white;
     font-size: 24px;
     font-weight: bold;
+    font-style: italic;
     border-bottom: 5px solid #fd8a24;
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+
 }
